@@ -9,9 +9,9 @@
                                                                                                                              
 </pre>
 
-[![Version: 6.7](https://img.shields.io/badge/version-6.7-blue.svg)]
-[![Tampermonkey Compatible](https://img.shields.io/badge/Tampermonkey-Compatible-green.svg?logo=tampermonkey&logoColor=white)]
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+![Version: 6.7](https://img.shields.io/badge/version-6.7-blue.svg)
+![Tampermonkey Compatible](https://img.shields.io/badge/Tampermonkey-Compatible-green.svg?logo=tampermonkey&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 </div>
 
