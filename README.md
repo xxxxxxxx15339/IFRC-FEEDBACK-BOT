@@ -9,8 +9,8 @@
                                                                                                                              
      IFRC Feedback Form Auto‑Filler (No Autre, 5s Delay)
 </pre>
-[![Version: 6.7](https://img.shields.io/badge/version-6.7-blue.svg)]
-[![Tampermonkey Compatible](https://img.shields.io/badge/Tampermonkey-Compatible-green.svg)]
+![Version: 6.7](https://img.shields.io/badge/version-6.7-blue.svg)
+![Tampermonkey Compatible](https://img.shields.io/badge/Tampermonkey-Compatible-green.svg)
 </div>
 
 # IFRC Feedback Form Auto‑Filler
