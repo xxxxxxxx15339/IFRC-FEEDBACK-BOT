@@ -7,12 +7,11 @@
 ██║██║     ██║  ██║╚██████╗    ██║     ███████╗███████╗██████╔╝██████╔╝██║  ██║╚██████╗██║  ██╗    ██████╔╝╚██████╔╝   ██║   
 ╚═╝╚═╝     ╚═╝  ╚═╝ ╚═════╝    ╚═╝     ╚══════╝╚══════╝╚═════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝    ╚═════╝  ╚═════╝    ╚═╝   
                                                                                                                              
----------------------------------------------------
-python cli program to send requests
 </pre>
 
-[![PyPI](https://img.shields.io/pypi/v/quaeso.svg)](https://pypi.org/project/quaeso/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Version: 6.7](https://img.shields.io/badge/version-6.7-blue.svg)]
+[![Tampermonkey Compatible](https://img.shields.io/badge/Tampermonkey-Compatible-green.svg?logo=tampermonkey&logoColor=white)]
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
 </div>
 
